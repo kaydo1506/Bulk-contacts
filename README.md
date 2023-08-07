@@ -6,6 +6,7 @@
 
 ### Install:
 npm install node-fetch
+
 npm install dotenv
 
 ### Run the script using Node.js:
