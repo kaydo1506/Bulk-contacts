@@ -12,3 +12,5 @@ npm install dotenv
 node test.mjs
 
 ### Update your bearer token and contacts in your .env file
+BEARER_TOKEN='yourToken'
+CONTACTS=123456788886,0123456788887,...
