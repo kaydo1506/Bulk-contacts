@@ -10,3 +10,5 @@ npm install dotenv
 
 ### Run the script using Node.js:
 node test.mjs
+
+### Update your bearer token and contacts in your .env file
